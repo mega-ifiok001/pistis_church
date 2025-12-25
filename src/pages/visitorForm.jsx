@@ -80,7 +80,7 @@ const VisitorForm = () => {
 
             {/* Visit Count */}
             <div>
-              <label className="block text-sm font-medium text-[#3f1169] mb-1">
+              <label className="block text-sm font-medium text-[#fff] mb-1">
                 Visit Count
               </label>
               <select
